@@ -1,4 +1,16 @@
 ## Hi there 👋
+🌱 I’m currently learning Node.js. <br>
+😄 Pronouns: Dany. <br>
+
+<details open>
+<summary>My Top Programming Languages</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| PHP |
+|     2| Javascript    |
+|     3| Python       |
+</details>
 
 <!--
 **danyghaly/danyghaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
